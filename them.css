@@ -1,7 +1,37 @@
+body
+{
+	margin: 0px;
+}
 #body
 {
 	width: 1280px;
 	height: 2560px;
 	background-color: yellow;
-	position: center;
+	margin: 0px auto 0px;
+}
+#body #header
+{
+	width: 100%;
+	height: 300px;
+	background-color: red;
+}
+#body div.cc
+{
+	height: 2100px;
+	float: left;
+}
+#body #left
+{
+	background-color: green;
+	width: 15%;
+}
+#body #center
+{
+	width: 70%;
+	background-color: navy;
+}
+#body #right
+{
+	width: 15%;
+	background-color: blue;
 }
