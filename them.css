@@ -40,4 +40,9 @@ body
 	width: 27%;
 	background-color: blue;
 }
-	background-color: yellow;background-color: navy;
+#body #foot
+{
+	width: 100%;
+	height:160px;
+	background-color: black;
+}
